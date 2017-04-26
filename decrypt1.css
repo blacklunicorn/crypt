@@ -1,0 +1,83 @@
+.jumbotron
+{
+	background-image: url(images/dark2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height: 750px;
+	box-shadow: 5px 5px 5px #888888;
+}
+#crypttitle
+{
+	color: #E0E0E0;
+	text-align: right;
+	padding-right: 200px;
+	text-shadow: 2px 2px #303030;
+}
+label
+{
+	margin-top: 120px;
+	//margin-left: 990px;
+    margin-left: 68vw;
+	color: #E0E0E0;
+	font-weight: normal;
+}
+#key
+{
+	//margin-left: 990px;
+    margin-left: 68vw;
+	background-color: rgba(15,15,15,0.2);
+    color: white;
+    border: 2px solid #A0A0A0;
+    border-radius: 3px;
+    width: 270px;
+    margin-bottom: 10px;
+}
+#key:focus
+{
+	outline: none;
+	border: 2px solid #F0F0F0;
+}
+#text-file
+{
+	display: none;
+}
+.custom-file-upload
+{
+	display: block;
+	background-color: rgba(15,15,15,0.2);
+    border: 2px solid #A0A0A0;
+    color: #E0E0E0;
+    padding: 5px 27px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    //margin-left: 1055px;
+    margin-left: 72vw;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 150px;
+    font-weight: normal;
+}
+.custom-file-upload:hover
+{
+	border: 2px solid #F0F0F0;
+}
+#submit
+{
+	display: block;
+	background-color: rgba(15,15,15,0.2);
+    border: 2px solid #A0A0A0;
+    color: #E0E0E0;
+    padding: 5px 27px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    //margin-left: 1087px;
+    margin-left: 74vw;
+    margin-top: 30px;
+    cursor: pointer;
+}
+#submit:hover
+{
+	border: 2px solid #F0F0F0;
+}

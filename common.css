@@ -1,0 +1,21 @@
+.jumbotron
+{
+	background-image: url(images/pattern-triangles1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height: 750px;
+	box-shadow: 5px 5px 5px #888888;
+}
+#title
+{
+	margin-top: -10px;
+	color: #E8E8E8;
+	text-shadow: 3px 3px #101010;
+	font-family: "Oswald";
+}
+#text
+{
+	color: #D7D7D7;
+	font-family: "Abel";
+	font-weight: bold;
+}

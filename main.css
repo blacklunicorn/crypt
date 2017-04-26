@@ -1,0 +1,80 @@
+.navbar
+{
+	background-color: #FFFFFF;
+	margin-bottom: 0px;
+}
+
+a.navbar-brand.set:hover{
+	color: black;
+	margin-left: 7px;
+	font-weight: 500;
+	font-size: large;
+}
+
+.set
+{
+	color: black;
+	margin-left: 7px;
+}
+
+.set:hover
+{
+	font-weight: 500;
+	font-size: large;
+}
+
+#main
+{
+	background-image: url(images/comp.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+#title
+{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 100px;
+}
+#title1
+{
+	color: white;
+	text-decoration: none;
+}
+#title1:hover
+{
+	font-size: 55px;
+}
+#title2
+{
+	color: white;
+	font-size: 14px;
+}
+
+#image
+{
+	background-image: url(images/6452.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px;
+	margin-top: -50px;
+}
+#text
+{
+	text-align: justify;
+	padding-top: 65px;
+	padding-left: 30px;
+	color: #404040;
+	font-weight: lighter;
+	font-family: "Abel";
+}
+#footer
+{
+	margin-top: -30px;
+	padding-top: 5px;	
+	text-align: center;
+	color: white;
+	background-color: #282828;
+}
